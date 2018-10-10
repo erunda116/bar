@@ -1,0 +1,13 @@
+.item-description{
+    display: flex;
+    justify-content: space-between;
+}
+.item-description-item{
+    width: 74.5%;
+}
+.item-description-item-desc{
+    width: 23%;
+}
+.our-products-bottom-item{
+    width: 23%;
+}

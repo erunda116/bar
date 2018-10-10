@@ -1,0 +1,22 @@
+.header{
+    background: #fff;
+}
+.header-navigation-pages{
+    background: #1c1c1c;
+}
+p[class^="header-order-contacts-item__p"]{
+    color: #1c1c1c;
+}
+.catalog-description__h3{
+    font-size: 1.5rem;
+}
+.our-products-bottom-item{
+    width: 48.5%;
+}
+.our-products-bottom-item-descriprtion{
+    left: 0;
+    right: 0;
+}
+.catalog-description_insert{
+    border: 2px solid #dedede;
+}
